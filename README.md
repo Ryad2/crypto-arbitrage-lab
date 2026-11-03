@@ -6,7 +6,7 @@ A TFA team building low-latency crypto arbitrage research and execution systems.
 
 ## Start here
 
-- Read the [two-page project brief](docs/Crypto_Arbitrage_Lab_TFA_Project_Brief.pdf).
+- Read the [two-page project brief online](https://drive.google.com/file/d/1Is6a29fcmlK_KCePEDWnMb9Hh8WLL_uQ/view?usp=sharing), or use the [repository copy](docs/Crypto_Arbitrage_Lab_TFA_Project_Brief.pdf).
 - Check the [open team roles](docs/TEAM.md).
 - Review the [first research cycle](docs/RESEARCH_PLAN.md).
 - Start from the [initial task board](TASKS.md), then use [Issues](https://github.com/Ryad2/crypto-arbitrage-lab/issues) to claim a task or propose an experiment.
