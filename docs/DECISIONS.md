@@ -8,6 +8,12 @@
 - The code repository is private; project participants are invited individually after confirming interest and contribution boundaries.
 - No ArcBook implementation, employer code, credentials or restricted datasets are included in setup.
 
+## 2026 11 03 Public project and recruitment hub
+
+- At Ryad's request, the repository becomes public so interested participants can read the brief, view tasks and introduce themselves in issue 1.
+- The published content is limited to non-confidential documentation and the recruitment brief. This does not publish the ArcBook implementation or authorize publication of future private research or datasets.
+- Reading, commenting and proposing a pull request do not grant direct write access. Confirmed teammates are invited individually for collaboration permissions.
+
 ## Decisions still to make
 
 - First pair, route family, venues/chain and data sources.

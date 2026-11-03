@@ -12,11 +12,13 @@ The target is five to six people in total. Only Ryad is confirmed at setup; the 
 
 ## Joining
 
-DM Ryad in Fund with:
+Introduce yourself in [the team issue](https://github.com/Ryad2/crypto-arbitrage-lab/issues/1), or DM Ryad in Fund with:
 
 - Preferred role and one relevant project or skill.
 - Weekly availability and time zone.
-- GitHub username for an individual invitation.
+- GitHub username if you want to contribute code or documentation.
+
+The repository is public, so reading it does not require an invitation. Write access is arranged individually once a role is agreed. Send any personal information privately rather than posting it in the public issue.
 
 Strong research or coding fundamentals matter more than already knowing every crypto protocol. A short weekly review and a focused build session are proposed; the team will agree the actual schedule at kickoff.
 

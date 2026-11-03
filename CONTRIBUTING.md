@@ -4,6 +4,8 @@
 
 Message Ryad in Fund with your GitHub username, preferred role and realistic weekly availability. Confirm scope and contribution, ownership and any economic terms before contributing proprietary code. An invitation is not an employment, investment or profit-sharing agreement.
 
+This repository is public. Use it for non-confidential project planning and material you have permission to publish. Keep non-public research, implementation, data and personal details in a separately restricted workspace.
+
 ## One task at a time
 
 - Open or claim an issue with a concrete question and acceptance criteria.

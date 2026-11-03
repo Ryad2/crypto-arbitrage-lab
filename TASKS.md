@@ -4,7 +4,7 @@ Use this board until the team agrees how to track work. Keep one owner per task,
 
 | ID | Priority | Task | Owner | Status | Done when |
 | --- | --- | --- | --- | --- | --- |
-| SETUP | Now | Prepare shared brief and repository | Ryad | Complete | Project documentation and private remote are available |
+| SETUP | Now | Prepare shared brief and repository | Ryad | Complete | Project documentation and project remote are available |
 | [TEAM #1](https://github.com/Ryad2/crypto-arbitrage-lab/issues/1) | First | Confirm team and arrange kickoff | Ryad | Open | Roles, GitHub invitations, availability and contribution boundaries are agreed |
 | [ROUTE #2](https://github.com/Ryad2/crypto-arbitrage-lab/issues/2) | First | Select one initial route | Unassigned | Open | Pair, venues/chain, hypothesis, access and exclusions are recorded |
 | [DATA #3](https://github.com/Ryad2/crypto-arbitrage-lab/issues/3) | Next | Capture a synchronized sample | Unassigned | Blocked by ROUTE | Source and local timestamps, provenance and quality checks are documented |

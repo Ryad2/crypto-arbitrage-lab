@@ -2,7 +2,7 @@
 
 A TFA team building low-latency crypto arbitrage research and execution systems.
 
-**Status:** team forming; no live strategy, committed trading capital or performance record is represented by this repository.
+**Status:** recruiting a 5-6 person team. The first stage is route selection, data capture and execution-aware replay.
 
 ## Start here
 
@@ -10,7 +10,7 @@ A TFA team building low-latency crypto arbitrage research and execution systems.
 - Check the [open team roles](docs/TEAM.md).
 - Review the [first research cycle](docs/RESEARCH_PLAN.md).
 - Start from the [initial task board](TASKS.md), then use [Issues](https://github.com/Ryad2/crypto-arbitrage-lab/issues) to claim a task or propose an experiment.
-- Contact Ryad in the WhatsApp group **Fund** to join. Send your preferred role, one relevant skill or project, weekly availability and GitHub username.
+- To join, [introduce yourself in the team issue](https://github.com/Ryad2/crypto-arbitrage-lab/issues/1) or message Ryad in the WhatsApp group **Fund**. Share your preferred role, one relevant skill or project, weekly availability and GitHub username. Keep personal details in a private message.
 
 [TFA project directory](https://docs.google.com/spreadsheets/d/1qoP235Rargd282GHqdJzdVAQDOETdUp7nQacYGlrjZ8/edit?gid=0#gid=0)
 
@@ -41,8 +41,8 @@ See [contribution rules](CONTRIBUTING.md) before uploading anything.
 
 ## Access and boundaries
 
-This is a private collaboration repository. Ryad will invite confirmed teammates individually; posting its URL does not give others access. There is no public/open-source license in this repository.
+This is the public project and recruitment hub. Anyone can read the brief, ask questions in Issues or propose changes through pull requests. Direct write access is granted individually to confirmed teammates; opening the link does not automatically make someone a collaborator. No open-source license has been added.
 
 Do not upload ArcBook source, employer code, credentials, wallet secrets, personal account exports or restricted market data. Live trading needs a separate explicit decision on access, capital, exposure and loss limits. No live deployment is authorized by joining the project.
 
-The recruitment brief is non-confidential and was shared in Fund on 3 November 2026. Research results and implementation details should stay within the agreed project access until publication is approved.
+The recruitment brief is non-confidential and was shared in Fund on 3 November 2026. Keep non-public research, implementation details and datasets in a separate restricted workspace; do not add them to this public repository without a deliberate publication decision.
